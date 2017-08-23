@@ -1,0 +1,8 @@
+[package]
+name = "netsuke"
+version = "0.1.0"
+authors = ["Vladislav Nikonov <pacmancoder@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+clap = "~2.26"
